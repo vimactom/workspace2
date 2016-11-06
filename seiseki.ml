@@ -11,3 +11,6 @@ let seiseki (name, point) = name^"さんの評価は"^hyouka point^"です"
 
 (*test*)
 let test = seiseki ("田所", 60)= "田所さんの評価は可です"
+
+
+(*更新テスト*)
