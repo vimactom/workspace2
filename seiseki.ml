@@ -15,3 +15,4 @@ let test = seiseki ("田所", 60)= "田所さんの評価は可です"
 
 (*更新テスト*)
 test1
+test2
