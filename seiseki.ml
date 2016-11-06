@@ -17,3 +17,4 @@ let test = seiseki ("田所", 60)= "田所さんの評価は可です"
 test1
 test2
 test3
+test4
